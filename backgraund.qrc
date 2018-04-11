@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>40.png</file>
+        <file>22.jpg</file>
+        <file>23.jpg</file>
+        <file>Icon.png</file>
+        <file>Icon1.png</file>
+        <file>Icon2.png</file>
+        <file>document_new.png</file>
+        <file>information.png</file>
+        <file>media_playback_pause.png</file>
+        <file>media_playback_start.png</file>
+        <file>media_playback_stop.png</file>
+        <file>orange_folder_open.png</file>
+        <file>save.png</file>
+    </qresource>
+</RCC>
